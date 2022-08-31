@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "bundledDependencies": [
+    "defu",
+    "source-map-support",
+    "axios",
+    "core-js",
+    "ufo",
+    "h3",
+    "radix3",
+    "deepmerge",
+    "node-fetch-native",
+    "unstorage",
+    "unenv",
+    "scule",
+    "ohash",
+    "hookable",
+    "pathe",
+    "ohmyfetch",
+    "destr",
+    "cookie-es",
+    "source-map",
+    "buffer-from",
+    "follow-redirects",
+    "debug",
+    "supports-color",
+    "ms",
+    "has-flag"
+  ]
+}
